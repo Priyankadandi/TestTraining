@@ -1,2 +1,6 @@
 Hello world.....
 This is first line
+<<<<<<< HEAD
+=======
+This is 2nd line
+>>>>>>> d5ac38f3a3a3183958a1e3eec0ec761f69f6df0b
